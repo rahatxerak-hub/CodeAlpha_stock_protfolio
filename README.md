@@ -21,7 +21,7 @@ Concepts Used
 How to Run
 
 
-python stock_tracker.py
+python stock_protfolio.py
 
 
 Enter a stock symbol (from the available list shown), then its quantity.
