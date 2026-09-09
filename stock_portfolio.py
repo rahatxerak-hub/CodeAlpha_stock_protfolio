@@ -1,9 +1,3 @@
-# CodeAlpha — Task 2: Stock Portfolio Tracker
-# User enters tickers and quantities. Prices live in a hardcoded dictionary.
-# Prints total investment and optionally writes a .csv or .txt file.
-# Key concepts: dictionary, input/output, basic arithmetic, file handling.
-# Run: python stock_portfolio.py
-
 from __future__ import annotations
 
 import csv
