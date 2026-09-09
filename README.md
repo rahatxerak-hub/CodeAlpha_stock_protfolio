@@ -27,7 +27,7 @@ investment decisions.
 Run the script from a terminal:
 
 ```bash
-python portfolio.py
+stock_portfolio.py
 ```
 
 (Replace `portfolio.py` with whatever you've named the file.)
