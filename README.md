@@ -1,1 +1,0 @@
-# CodeAlpha_stock_protfolio
